@@ -26,7 +26,6 @@ dependencies:
   provider: ^4.3.2
   http: ^0.12.2
   get_it: ^4.0.4
-  path_provider: ^1.6.11
   sliding_up_panel: ^1.0.2
   flutter_barcode_scanner: ^1.0.1 
 
